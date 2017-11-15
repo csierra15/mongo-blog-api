@@ -1,0 +1,23 @@
+{
+  "name": "mongoose-blog-api-chal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csierra15/mongo-blog-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csierra15/mongo-blog-api/issues"
+  },
+  "homepage": "https://github.com/csierra15/mongo-blog-api#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
