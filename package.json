@@ -19,8 +19,10 @@
   "homepage": "https://github.com/csierra15/mongo-blog-api#readme",
   "dependencies": {},
   "devDependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "mocha": "^4.0.1",
+    "mongoose": "^4.13.3",
     "morgan": "^1.9.0"
   }
 }
